@@ -1,1 +1,1 @@
-# AWA_DataAnalytics_v2
+### This Branch contains related Python codes, according to requirements specified by Mentors, from the Python coursework of "Mastering Data Analytics (Ver 2.0) using Cloud Technologies & AI" by Analytics With Anand.
