@@ -1,1 +1,1 @@
-## Analytics With Anand --> Mastering Data Analytics Version(2.0) using Cloud Technologies & AI
+## Analytics With Anand --> Mastering Data Analytics (Ver 2.0) using Cloud Technologies & AI
